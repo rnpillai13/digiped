@@ -4,9 +4,9 @@ excerpt: 'Since the appropriation of the Haitian zonbi into American popular cul
 teaser: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Zombies_NightoftheLivingDead.jpg/640px-Zombies_NightoftheLivingDead.jpg"
 overlay_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Zombies_NightoftheLivingDead.jpg/640px-Zombies_NightoftheLivingDead.jpg"
 contributors:
-  - name: George Romero
-    image: https://pbs.twimg.com/profile_images/457000434532483072/LpJVylwE_400x400.jpeg
-    bio: Born in the New York City borough of the Bronx. He is the son of Ann (Dvorsky) and George Romero, a commercial artist. His mother was Lithuanian and his father moved from Spain to Cuba as a child.
+  - name: Rupa Pillai
+    image: https://commons.wikimedia.org/w/index.php?search=panda&title=Special:Search&profile=advanced&fulltext=1&advancedSearch-current=%7B%7D&ns0=1&ns6=1&ns12=1&ns14=1&ns100=1&ns106=1#/media/File:Panda_ChiangMaiZoo_humarkus.jpg
+    bio: Born in the Texas. She is anthropologist teaching Asian American Studies.
     twitter: GeorgeARomeros
 ---
 
