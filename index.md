@@ -5,7 +5,7 @@ teaser: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Zombies_Night
 overlay_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Zombies_NightoftheLivingDead.jpg/640px-Zombies_NightoftheLivingDead.jpg"
 contributors:
   - name: Rupa Pillai
-    image: https://commons.wikimedia.org/w/index.php?search=panda&title=Special:Search&profile=advanced&fulltext=1&advancedSearch-current=%7B%7D&ns0=1&ns6=1&ns12=1&ns14=1&ns100=1&ns106=1#/media/File:Panda_ChiangMaiZoo_humarkus.jpg
+    image: https://commons.wikimedia.org/wiki/File:Beautiful_peacock_feathers.jpg
     bio: Born in the Texas. She is anthropologist teaching Asian American Studies.
     twitter: GeorgeARomeros
 ---
