@@ -6,7 +6,7 @@ overlay_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Zombie
 contributors:
   - name: Rupa Pillai
     image: https://farm8.staticflickr.com/7105/26700238594_da6e862dbe_b.jpg
-    bio: Born in the Texas. She is anthropologist teaching Asian American Studies.
+    bio: Born in the Texas. She is an anthropologist teaching Asian American Studies.
     twitter: GeorgeARomeros
 ---
 
